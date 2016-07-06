@@ -165,6 +165,6 @@ int main()
           system("pause");
           return 0;
         }
-        Sleep(80);
+        Sleep(GameSpeed);
     }
 }
